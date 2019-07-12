@@ -1,0 +1,2 @@
+# github_to_hatenablog
+githubで記事管理、circleci経由ではてなブログに投稿する
